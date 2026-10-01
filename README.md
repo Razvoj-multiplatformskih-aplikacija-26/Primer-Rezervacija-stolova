@@ -6,12 +6,12 @@ Primer sa vežbi iz predmeta Razvoj multiplatformskih aplikacija.
 
 ## Tim
 
-| Ime i prezime | Broj indeksa | GitHub nalog |
-| --- | --- | --- |
-| Luka Petrović | — | / |
-| Nikola Paunović | — | / |
+| Ime i prezime | Broj indeksa | Grupa | GitHub nalog |
+| --- | --- | --- | --- |
+| Luka Petrović | — | — |/ |
+| Nikola Paunović | — | — | / |
 
-U projektima studenata tabela sadrži oba člana tima, sa brojem indeksa.
+U projektima studenata tabela sadrži oba člana tima, sa brojem indeksa i studijskom grupom.
 
 ## Zahtevi za temu
 

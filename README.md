@@ -26,7 +26,7 @@ U projektima studenata tabela sadrži oba člana tima, sa brojem indeksa i studi
 
 | Deo | Korisnici | Tehnologija | Platforme |
 | --- | --- | --- | --- |
-| Mobilna aplikacija | gosti | Flutter | Android |
+| Mobilna aplikacija | gosti | Flutter | Android, iOS |
 | Backoffice | konobari, menadžeri | Flutter | Windows, veb |
 | Javni veb | svi posetioci | Jaspr | pregledač |
 | Server | ostali delovi sistema | Relic, PostgreSQL | Linux, Windows |
